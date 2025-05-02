@@ -13,6 +13,10 @@ export const metadata: Metadata = {
       "Desenvolvimento de software, aplicativos, sites e automações com inteligência artificial",
     siteName: "NevTec",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "NevTec",
+  },
 };
 
 export default function RootLayout({
